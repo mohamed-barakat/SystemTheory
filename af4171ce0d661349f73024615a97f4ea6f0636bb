@@ -144,3 +144,11 @@ Sheaves/: c68a4f4 added NormalCrossing.g
 Versions:
 2011.08.21 which is Markus' version
 2012.05.30 which is Mohamed's version
+
+SystemTheory/: af4171c fixed GeneralLinearCombination by taking care of the case n = 0
+
+Versions:
+2011.06.17 which is Alban's version
+2011.06.14 which is Markus's version
+2011.08.10 which is Mohamed's version
+2011.06.01 which is Thomas's version
