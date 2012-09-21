@@ -70,3 +70,9 @@ IO_ForHomalg/: 649f07b added Sebastian Gutsche as author
 
 Versions:
  2012.05.24
+
+k-Points/: ee8714b fixed a bug in IdealOfCoefficients for morphisms
+
+Versions:
+2011.06.23 which is Mohamed's version
+2011.06.01 which is Alban's version
